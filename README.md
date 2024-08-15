@@ -1,6 +1,8 @@
 # Standard-Actions In Java
 
-Java Standard Actions, particularly in the context of JavaServer Pages (JSP), are special tags that provide instructions to the JSP container on how to manage server-side actions. These actions can include tasks like including other files, forwarding requests, and manipulating session data. Here are some commonly used JSP Standard Actions¹²:
+Java Standard Actions, particularly in the `XML` based context of JavaServer Pages (JSP), are special tags that provide instructions to the JSP container on how to manage server-side actions. These actions can include tasks like including other files, forwarding requests, and manipulating session data. 
+
+Let's have a look at few Standard Actions in Java:
 
 
 ### _`jsp:forward`_
